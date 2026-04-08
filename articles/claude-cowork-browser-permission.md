@@ -3,7 +3,7 @@ title: "Claude DesktopのCoworkでブラウザ操作がPermission deniedにな�
 emoji: "🔐"
 type: "tech"
 topics: ["claude", "anthropic", "chrome拡張", "AIエージェント", "デバッグ"]
-published: false
+published: true
 ---
 
 ## はじめに
