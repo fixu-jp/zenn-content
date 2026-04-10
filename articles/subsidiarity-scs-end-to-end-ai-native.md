@@ -1,5 +1,5 @@
 ---
-title: "補完性原理で読み解くAIネイティブ時代のマイクロサービス設計 — Self-contained Systems と End-to-End原則の再発見"
+title: "補完性原理 × Self-contained Systems × End-to-End原則 — AI時代のマイクロサービス設計"
 emoji: "🏛️"
 type: "tech"
 topics: ["architecture", "microservices", "terraform", "aiagent", "designprinciples"]
