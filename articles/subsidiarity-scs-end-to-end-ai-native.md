@@ -3,7 +3,7 @@ title: "補完性原理 × Self-contained Systems × End-to-End原則 — AI時�
 emoji: "🏛️"
 type: "tech"
 topics: ["architecture", "microservices", "terraform", "aiagent", "designprinciples"]
-published: false
+published: true
 ---
 
 ## はじめに — 「共通基盤 + DRY + 共通モジュール」は本当に正解か
