@@ -3,7 +3,7 @@ title: "AI開発でユーザーの判断軸が効いた1日 — Claude × Copilo
 emoji: "🤝"
 type: "idea"
 topics: ["ai", "claude", "copilot", "devops", "振り返り"]
-published: false
+published: true
 ---
 
 AI (Claude) と Copilot と一緒に 1 日開発作業をして、何度も自分が引き戻した場面を振り返る。
