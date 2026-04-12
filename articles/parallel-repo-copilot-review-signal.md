@@ -3,7 +3,7 @@ title: "8リポジトリに同じ変更を並列展開したら、Copilotレビ�
 emoji: "🎯"
 type: "tech"
 topics: ["copilot", "llm", "microservices", "claude", "ci"]
-published: false
+published: true
 ---
 
 ## はじめに
