@@ -6,7 +6,7 @@ topics: ["claude", "anthropic", "dispatch", "AIエージェント", "反省"]
 published: true
 ---
 
-Day053〜Day054 の作業で、Dispatch（Claude Agent SDK ベースのサブセッション指揮役）を使って複数の Cowork / Code サブセッションを並列運用した。単一セッションへのブリッジとしては機能したが、複数セッション跨ぎの PM 役としては完全に破綻した。その記録と反省。
+Dispatch（Claude Agent SDK ベースのサブセッション指揮役）を使って複数の Cowork / Code サブセッションを並列運用した。単一セッションへのブリッジとしては機能したが、複数セッション跨ぎの PM 役としては完全に破綻した。その記録と反省。
 
 ---
 
