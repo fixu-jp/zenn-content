@@ -3,7 +3,7 @@ title: "「推測」から「計測」へ ― AIネイティブ時代におけ�
 emoji: "📏"
 type: "tech"
 topics: ["claude", "ai", "laravel", "マイクロサービス", "設計"]
-published: false
+published: true
 ---
 
 ## はじめに
