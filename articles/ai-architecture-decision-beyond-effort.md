@@ -3,7 +3,7 @@ title: "AI時代のアーキテクチャ意思決定 ― 実装工数は「tie-b
 emoji: "🧭"
 type: "idea"
 topics: ["claude", "ai", "アーキテクチャ", "設計", "マイクロサービス"]
-published: false
+published: true
 ---
 
 ## はじめに
