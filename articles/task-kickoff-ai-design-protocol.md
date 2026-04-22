@@ -3,7 +3,7 @@ title: "AIは知っているのに使わない — 設計タスクの \"task-kic
 emoji: "🎯"
 type: "idea"
 topics: ["ai", "claude", "設計", "engineeringmanagement", "組織設計"]
-published: false
+published: true
 ---
 
 ## はじめに
