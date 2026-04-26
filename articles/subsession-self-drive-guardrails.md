@@ -3,7 +3,7 @@ title: "AIへの丸投げと細部の業務設計 — サブセッション自�
 emoji: "⚖️"
 type: "tech"
 topics: ["claude", "AIエージェント", "llm", "orchestration", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
