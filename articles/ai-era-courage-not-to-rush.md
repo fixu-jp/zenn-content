@@ -3,12 +3,12 @@ title: "AI時代の急がない勇気と旧世代発想のアンラーニング 
 emoji: "🧭"
 type: "idea"
 topics: ["claude", "AIエージェント", "engineeringmanagement", "プロジェクトマネジメント", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
 
-ある日、AI 親セッション (Claude Opus) に対して、こんな指摘が入りました。
+ある日、AI 親セッション (Claude Opus) に対して、ユーザーからこんな指摘が入りました。
 
 > 「なぜそんなに手を抜くことばかり考えるのか」
 
