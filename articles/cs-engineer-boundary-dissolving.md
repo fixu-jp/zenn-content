@@ -3,7 +3,7 @@ title: "CSとエンジニアの境界が溶ける日 — Claude Code で問い�
 emoji: "🤝"
 type: "tech"
 topics: ["claude", "ai", "AIエージェント", "cs", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
