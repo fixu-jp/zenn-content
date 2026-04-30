@@ -3,7 +3,7 @@ title: "ブレインフライを抜けた先の景色 — 見えてきた1000時
 emoji: "🧠"
 type: "tech"
 topics: ["claude", "AIエージェント", "llm", "振り返り", "学習法"]
-published: false
+published: true
 ---
 
 ## はじめに
