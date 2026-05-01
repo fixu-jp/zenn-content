@@ -1,0 +1,28 @@
+name: Auto re-request Copilot review on PR push
+
+on:
+  pull_request:
+    types: [synchronize]
+
+jobs:
+  rerequest:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Re-request Copilot review
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NODE_ID: ${{ github.event.pull_request.node_id }}
+        run: |
+          gh api graphql -f query='
+            mutation($id: ID!) {
+              requestReviewsByLogin(input: {
+                pullRequestId: $id,
+                botLogins: ["copilot-pull-request-reviewer"],
+                union: true
+              }) {
+                pullRequest { number }
+              }
+            }
+          ' -f id="$PR_NODE_ID"
