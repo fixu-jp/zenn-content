@@ -109,20 +109,6 @@ published: false
 
 「全部 AI で速くなる」ではなく、**スペクトラムのどこにあるかでアプローチを変える** ― これが、計画の組み立てのアンラーニングです。
 
-### 3-3. アンラーニングシリーズ ⑤ としての位置づけ
-
-本記事はシリーズ 5 本目です。既存 4 本との関係を整理すると、
-
-| # | アンラーニング対象 | 観察対象 |
-|---|---|---|
-| ① [推測 → 計測](https://zenn.dev/fixu/articles/measure-dont-guess-ai-native) | 計測コストの希少性 | 人間の意思決定スタンス |
-| ② [実装工数 tie-breaker](https://zenn.dev/fixu/articles/ai-architecture-decision-beyond-effort) | 実装工数の重み | 人間の設計判断軸 |
-| ③ [CS / エンジニアの境界](https://zenn.dev/fixu/articles/cs-engineer-boundary-dissolving) | 職能境界 | 人間の組織設計 |
-| ④ [急がない勇気](https://zenn.dev/fixu/articles/ai-era-courage-not-to-rush) | 並列度・先回り・連続実行 | 人間の段取り設計 |
-| ⑤ (本記事) | **作業時間見積もり** | **AI 自身の動作スケール** |
-
-①〜④ は人間の経験則を観察対象にしていましたが、本記事 ⑤ は **AI 自身を観察対象にする最初のエピソード** です。AI 親セッションが訓練データから人間ペースを継承していることを、AI 自身が言語化する作業でもありました。
-
 > **§ 3 蒸留**: 計画の組み立ては「AI で何倍速くなるか」ではなく、「この作業はマトリクスのどこにあるか」で始める。
 
 ---
