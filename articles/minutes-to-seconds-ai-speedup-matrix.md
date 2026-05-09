@@ -3,7 +3,7 @@ title: "「分」から「秒」へ — AI作業時間見積もりが人間ス�
 emoji: "⏱️"
 type: "idea"
 topics: ["claude", "AIエージェント", "プロジェクトマネジメント", "生産性", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
