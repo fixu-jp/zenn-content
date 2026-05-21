@@ -3,7 +3,7 @@ title: "許可リストか、拒否リストか — AI 時代に再発見した�
 emoji: "🪶"
 type: "tech"
 topics: ["claude", "AIエージェント", "laravel", "設計", "リファクタリング"]
-published: false
+published: true
 ---
 
 ## はじめに
