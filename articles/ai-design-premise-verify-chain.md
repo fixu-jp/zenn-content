@@ -1,5 +1,5 @@
 ---
-title: "LLM agent に設計させたら誤前提が 17 連鎖した話 — typo 1 文字が 7 件以上の catch chain を生む構造と、断ち方"
+title: "LLM agent に誤前提が 17 連鎖した話 — typo 1 文字が生む 7 件以上の catch chain と断ち方"
 emoji: "🪞"
 type: "tech"
 topics: ["claude", "AIエージェント", "設計", "llm", "振り返り"]
