@@ -3,7 +3,7 @@ title: "LLM agent に誤前提が 17 連鎖した話 — typo 1 文字が生む�
 emoji: "🪞"
 type: "tech"
 topics: ["claude", "AIエージェント", "設計", "llm", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
