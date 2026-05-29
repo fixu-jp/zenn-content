@@ -3,7 +3,7 @@ title: "AIセッションは消えうる前提で設計する — 回復力だ�
 emoji: "🛟"
 type: "tech"
 topics: ["claude", "anthropic", "AIエージェント", "プロジェクトマネジメント", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
