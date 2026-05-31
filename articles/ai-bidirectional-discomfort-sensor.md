@@ -3,7 +3,7 @@ title: "対症療法の逆・AIに諌められた話 — 違和感センサー�
 emoji: "⚖️"
 type: "tech"
 topics: ["claude", "AIエージェント", "アーキテクチャ", "リファクタリング", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
