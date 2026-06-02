@@ -3,7 +3,7 @@ title: "Claudeが暴走してトークンを溶かした話 — 「同一行反�
 emoji: "🛑"
 type: "tech"
 topics: ["claude", "anthropic", "AIエージェント", "claudecode", "生産性"]
-published: false
+published: true
 ---
 
 ## はじめに
