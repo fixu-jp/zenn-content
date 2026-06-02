@@ -1,5 +1,5 @@
 ---
-title: "Claudeが暴走してトークンが溶ける前に — 「同一行反復」を機械的に止める二段防御"
+title: "Claudeが暴走してトークンを溶かした話 — 「同一行反復」を止める二段防御"
 emoji: "🛑"
 type: "tech"
 topics: ["claude", "anthropic", "AIエージェント", "claudecode", "生産性"]
