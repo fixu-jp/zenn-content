@@ -3,7 +3,7 @@ title: "AI多層防御を通り抜けた重大インシデント未遂 — verif
 emoji: "🛡️"
 type: "tech"
 topics: ["claude", "AIエージェント", "qa", "llm", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
