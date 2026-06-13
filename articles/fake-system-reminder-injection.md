@@ -3,7 +3,7 @@ title: "ツール結果に紛れた偽の停止指示を観測した話 — AI�
 emoji: "🎭"
 type: "tech"
 topics: ["claude", "anthropic", "AIエージェント", "セキュリティ", "プロンプトインジェクション"]
-published: false
+published: true
 ---
 
 ## はじめに
