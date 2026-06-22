@@ -3,7 +3,7 @@ title: "クロスリージョンをやめた意思決定 — 移行先はリリ�
 emoji: "⚖️"
 type: "tech"
 topics: ["AWS", "ECS", "インフラ", "マイクロサービス", "SRE"]
-published: false
+published: true
 ---
 
 ## はじめに
