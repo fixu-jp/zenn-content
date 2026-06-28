@@ -3,7 +3,7 @@ title: "AIに横展開を任せて寝たら、朝に社内ツールが止まっ�
 emoji: "🌙"
 type: "tech"
 topics: ["claude", "AIエージェント", "Laravel", "DevOps", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
