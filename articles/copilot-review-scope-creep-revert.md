@@ -3,7 +3,7 @@ title: "Copilotの指摘に5往復従わせたらAIのスコープが逸脱し�
 emoji: "🪃"
 type: "tech"
 topics: ["copilot", "claude", "AIエージェント", "codereview", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
