@@ -3,7 +3,7 @@ title: "サーバに sleep を仕込みかけた話 — 遅延ロードの体感
 emoji: "💤"
 type: "tech"
 topics: ["ai", "claudecode", "パフォーマンス", "terraform", "フロントエンド"]
-published: false
+published: true
 ---
 
 ## はじめに
