@@ -3,7 +3,7 @@ title: "AIネイティブ開発でQCDはどう変わったか — 直近2週間�
 emoji: "📊"
 type: "tech"
 topics: ["ai", "claudecode", "品質", "開発生産性", "devops"]
-published: false
+published: true
 ---
 
 ## はじめに
