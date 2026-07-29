@@ -3,7 +3,7 @@ title: "【Claudeトークン枯渇対策】AIが『頼んでないことまで�
 emoji: "🧯"
 type: "tech"
 topics: ["claude", "claudecode", "AIエージェント", "プロンプトエンジニアリング", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
