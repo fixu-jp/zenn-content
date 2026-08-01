@@ -3,7 +3,7 @@ title: "Aurora MySQL 3.08.x → 3.10.x アップグレードガイド"
 emoji: "🐬"
 type: "tech"
 topics: ["aws", "aurora", "mysql", "rds", "claude"]
-published: false
+published: true
 ---
 
 ## はじめに
