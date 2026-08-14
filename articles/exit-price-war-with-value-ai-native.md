@@ -3,7 +3,7 @@ title: "値下げではなく対価に見合う機能提供を — 1日10本のA
 emoji: "⚖️"
 type: "tech"
 topics: ["ai", "claude", "開発生産性", "SaaS", "AIエージェント"]
-published: false
+published: true
 ---
 
 ## はじめに
