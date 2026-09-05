@@ -1,5 +1,5 @@
 ---
-title: "増やす勇気と戻す根拠 — AIネイティブ開発で品質と性能を上げ、AWS費用を抑制した8か月"
+title: "品質も性能も上げて、費用は移行前より安く — AIネイティブ開発が通ったAWSコストの山と谷"
 emoji: "📉"
 type: "tech"
 topics: ["aws", "aurora", "ecs", "finops", "claude"]
