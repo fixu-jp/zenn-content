@@ -1,5 +1,5 @@
 ---
-title: "サーバは増えたのにクラウド費用は移行前を下回った — AWS費用を100ptで追った8か月"
+title: "増やす勇気と戻す根拠 — AIネイティブ開発で品質と性能を上げ、AWS費用を抑制した8か月"
 emoji: "📉"
 type: "tech"
 topics: ["aws", "aurora", "ecs", "finops", "claude"]
