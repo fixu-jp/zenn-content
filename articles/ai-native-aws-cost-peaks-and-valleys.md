@@ -3,7 +3,7 @@ title: "品質も性能も上げて、費用は移行前より安く — AIネ�
 emoji: "📉"
 type: "tech"
 topics: ["aws", "aurora", "ecs", "finops", "claude"]
-published: false
+published: true
 ---
 
 ## はじめに
