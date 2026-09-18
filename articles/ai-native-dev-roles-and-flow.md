@@ -3,7 +3,7 @@ title: "AIネイティブ開発の現場構成 — PdM・エンジニア2人とA
 emoji: "🧩"
 type: "tech"
 topics: ["ai", "claudecode", "AIエージェント", "orchestration", "開発生産性"]
-published: false
+published: true
 ---
 
 ## はじめに
