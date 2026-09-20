@@ -1,9 +1,9 @@
 ---
-title: "PdMが整えた用語集を、コードでなくAIの手順書とメモリに適用した話"
+title: "ユビキタス言語をAIの手順書とメモリに適用した話 — 人とAIが同じ語で考える基盤"
 emoji: "📗"
 type: "idea"
 topics: ["ddd", "ユビキタス言語", "ai", "claudecode", "チーム開発"]
-published: false
+published: true
 ---
 
 ## はじめに
