@@ -3,7 +3,7 @@ title: "機能は速く、安全装置は勝手に付かない — AI 開発元�
 emoji: "🐢"
 type: "idea"
 topics: ["claude", "AIエージェント", "cloudwatch", "engineeringmanagement", "振り返り"]
-published: false
+published: true
 ---
 
 ## はじめに
