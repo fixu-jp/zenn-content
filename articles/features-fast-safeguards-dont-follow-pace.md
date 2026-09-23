@@ -91,7 +91,7 @@ AI モデルを作る側が、自分たちの最大の売りである「速さ�
 
 問題は、AI の実装速度がその速さを大きく超えたことです。差の分だけ開発力が余ります。棚卸しで見つかった「届かないアラーム」は、余った力を機能にだけ使っていた半年の結果の一つでした。機能実装の速さに、非機能と人の帯域が追いついていなかったのです。
 
-**余剰の使い道を選ぶ。** 選択肢は二つありました。一つは、開発ワークフローから人の関与を薄め、AI の自走を加速して受け入れ側の天井そのものを上げる道。もう一つは、人の帯域を天井として受け入れ、余った開発力をシステム主体の土台強化に充てる道。私たちは後者を選び、前者は見送りました。見送った経緯は、次の記事で書きます。
+**余剰の使い道を選ぶ。** 選択肢は二つありました。一つは、開発ワークフローから人の関与を薄め、AI の自走を加速して受け入れ側の天井そのものを上げる道。もう一つは、人の帯域を天井として受け入れ、余った開発力をシステム主体の土台強化に充てる道。私たちは後者を選び、前者は見送りました。見送った経緯は [AIネイティブ開発ワークフロー3.0を設計して、今はやらないと決めた話](https://zenn.dev/fixu/articles/ai-native-workflow-3-0-designed-and-deferred) に書きました。
 
 **土台強化の四本柱。** 余った開発力の行き先です。
 
@@ -130,3 +130,4 @@ AI モデルを作る側が、自分たちの最大の売りである「速さ�
 - Dario Amodei, "We Must Pace the Frontier"（2026-09-13）— 報道: [Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up](https://techxplore.com/news/2026-09-anthropic-ceo-dario-amodei-ai.html) / [Dario Amodei calls for an AI slowdown, other tech leaders cosign](https://reason.com/2026/09/14/ai-slowdown/)
 - [anthropics/oncall-kit](https://github.com/anthropics/oncall-kit) — Claude をアラートチャンネルの一次対応者として動かすための設定キット（読み取り専用・shadow period 付き）
 - [AI時代の急がない勇気と旧世代発想のアンラーニング](https://zenn.dev/fixu/articles/ai-era-courage-not-to-rush)（前回記事）
+- [AIネイティブ開発ワークフロー3.0を設計して、今はやらないと決めた話](https://zenn.dev/fixu/articles/ai-native-workflow-3-0-designed-and-deferred) — §5 で見送った「人の関与を薄めて AI の自走を加速する道」の設計と、見送りの判断
