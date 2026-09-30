@@ -1,5 +1,5 @@
 ---
-title: "差分の外で起きた事故 — どの変更も正しかったのに、二重登録を防げなかった 5 つの理由"
+title: "犯人のいない本番事故 — AI レビューも QA も通った変更が重なって二重登録になった話"
 emoji: "🧩"
 type: "idea"
 topics: ["claude", "AIエージェント", "振り返り", "品質", "engineeringmanagement"]
