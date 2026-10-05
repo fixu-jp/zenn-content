@@ -1,9 +1,9 @@
 ---
-title: "「マシンパワーで殴る」をやめた月 — 仕事・器・割引の順で AWS 費用を移行前の 4 割へ"
+title: "「マシンパワーで殴る」をやめた月 — AWS 費用を半分以下へ"
 emoji: "🪶"
 type: "tech"
 topics: ["aws", "aurora", "ecs", "graviton", "finops"]
-published: false
+published: true
 ---
 
 ## はじめに
