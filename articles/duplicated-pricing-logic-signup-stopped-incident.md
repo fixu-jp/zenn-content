@@ -3,7 +3,7 @@ title: "入会手続きが止まった本番事故 — 同じ計算を 3 か所�
 emoji: "🧮"
 type: "idea"
 topics: ["claude", "AIエージェント", "振り返り", "品質", "engineeringmanagement"]
-published: false
+published: true
 ---
 
 ## はじめに
