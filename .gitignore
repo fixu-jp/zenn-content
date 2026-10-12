@@ -1,2 +1,6 @@
 node_modules
 .DS_Store
+
+# Playwright MCP のブラウザスナップショット出力（顧客 PII を含みうる）。
+# 公開リポジトリゆえ絶対に commit しない。QA セッションは fixu-jp ルートで起動すること。
+.playwright-mcp/
