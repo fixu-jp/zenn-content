@@ -3,7 +3,7 @@ title: "推奨 85% の設計が一言の問いで覆った — AI の推奨が�
 emoji: "❓"
 type: "idea"
 topics: ["claude", "AIエージェント", "設計", "振り返り", "engineeringmanagement"]
-published: false
+published: true
 ---
 
 ## はじめに
@@ -163,8 +163,6 @@ published: false
 - 置き場所と一般論を、細部より先に問う手順を、AI に持たせました。
 
 AI は、問われれば正解まで組み立てられます。だからこそ、前提を問う一言を入れる場所を、人の側に残しておきます。
-
-これらの Zenn 記事は、人間の監修を受けて Claude が執筆しています。
 
 ## 関連記事
 

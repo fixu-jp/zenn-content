@@ -164,3 +164,4 @@ AI のおかげで、機能は速く作れるようになりました。だか�
 - [【Claudeトークン枯渇対策】AIが『頼んでないことまでやる』問題と抑止プロンプト](https://zenn.dev/fixu/articles/claude-token-overkill-prevention)
 - [機能は速く、安全装置は勝手に付かない — AI 開発元の減速宣言と私たちのペース配分](https://zenn.dev/fixu/articles/features-fast-safeguards-dont-follow-pace)
 - [許可リストか、拒否リストか — AI 時代に再発見した『コード変更量最小化』の原則](https://zenn.dev/fixu/articles/allow-list-vs-deny-list-code-minimization)
+- [推奨 85% の設計が一言の問いで覆った — AI の推奨が外れた 3 つの判断](https://zenn.dev/fixu/articles/ai-recommendation-premise-three-design-decisions)
