@@ -3,7 +3,7 @@ title: "小さなサービスも狙われる前提で — 最低限の自衛策 
 emoji: "🛡️"
 type: "tech"
 topics: ["セキュリティ", "aws", "AIエージェント", "claude", "engineeringmanagement"]
-published: false
+published: true
 ---
 
 ## はじめに
