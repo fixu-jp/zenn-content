@@ -1,9 +1,9 @@
 ---
-title: "AI 時代に必要なスキルは DB 設計 — コードを半年書かず、データの置き場所は毎回見る"
+title: "コードは 1 行も書かなくなった。それでも DB 設計だけは手放さない — AI 時代に必要なスキル"
 emoji: "🗄️"
 type: "idea"
 topics: ["claude", "AIエージェント", "設計", "データベース", "engineeringmanagement"]
-published: false
+published: true
 ---
 
 ## はじめに
