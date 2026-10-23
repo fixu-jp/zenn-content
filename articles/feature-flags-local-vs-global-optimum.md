@@ -3,7 +3,7 @@ title: "個別最適と全体最適を両立する — 多様な施設に使わ�
 emoji: "🚩"
 type: "idea"
 topics: ["フィーチャーフラグ", "設計", "SaaS", "データベース", "AIエージェント"]
-published: false
+published: true
 ---
 
 ## はじめに
